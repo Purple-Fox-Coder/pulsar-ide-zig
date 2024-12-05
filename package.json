@@ -14,7 +14,7 @@
   "activationCommands": {
     "atom-workspace": "pulsar-ide-zig:toggle"
   },
-  "repository": "https://github.com/atom/pulsar-ide-zig",
+  "repository": "https://github.com/Purple-Fox-Coder/pulsar-ide-zig.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
